@@ -10,6 +10,7 @@
 |---|---|---|
 | [telegram-stats](https://github.com/Aysvoch/telegram-stats) | Живая аналитика Telegram-канала: сбор метрик в облаке 24/7 без участия человека | Работа с данными, выбор метрик, продуктовые trade-offs, безопасность |
 | [learn-by-recall](https://github.com/Aysvoch/learn-by-recall) | Планировщик самообучения через вспоминание, single-file HTML ([демо](https://aysvoch.github.io/learn-by-recall/)) | Продуктовое мышление, метрика вместо «часов», метод в интерфейсе |
+| [offline-banking-analytics](https://github.com/Aysvoch/offline-banking-analytics) | Дашборд трат из PDF-выписок банков РФ, всё в браузере ([демо](https://aysvoch.github.io/offline-banking-analytics/)) | Приватность-by-design, продуктовые trade-offs, работа с данными |
 
 ## О себе
 
