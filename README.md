@@ -8,7 +8,7 @@
 
 | Проект | О чём | Что показывает |
 |---|---|---|
-| [telegram-stats](https://github.com/Aysvoch/telegram-stats) | Живая аналитика Telegram-канала: сбор метрик в облаке 24/7 | Работа с данными, выбор метрик, продуктовые trade-offs, безопасность |
+| [telegram-stats](https://github.com/Aysvoch/telegram-stats) | Живая аналитика Telegram-канала: сбор метрик в облаке 24/7 без участия человека | Работа с данными, выбор метрик, продуктовые trade-offs, безопасность |
 | [learn-by-recall](https://github.com/Aysvoch/learn-by-recall) | Планировщик самообучения через вспоминание, single-file HTML ([демо](https://aysvoch.github.io/learn-by-recall/)) | Продуктовое мышление, метрика вместо «часов», метод в интерфейсе |
 
 ## О себе
